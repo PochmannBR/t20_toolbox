@@ -3,12 +3,12 @@
     "name": "conteudo-extra-para-t20e",
     "title": "Conteudo extra para T20",
     "description": "Conteudo extra, NÃO OFICIAL, para T20. Feito de fã para fãs.",
-    "version": "1.0.0",
+    "version": "0.1.0",
     "authors": [
         {
             "name": "Pablo Pochmann",
             "discord": "PochmannBR#0301",
-            "url": "https://www.mywebsite.com/"
+            "url": "Em desenvolvimento!!!"
         }
     ],
     "minimumCoreVersion": "12",
@@ -20,51 +20,33 @@
     "packs": [
         {
             "name": "module-creatures",
-            "label": "Module Creatures",
+            "label": "Ameaças e NPCs",
             "path": "./packs/creatures.db",
             "type": "Actor",
             "system": "tormenta20"
         },
         {
             "name": "module-items",
-            "label": "Module Items",
+            "label": "Items, Magias e Poderes",
             "path": "./packs/items.db",
             "type": "Item",
             "system": "tormenta20"
         },
         {
             "name": "module-scenes",
-            "label": "Module Scenes",
+            "label": "Cenas Genéricas",
             "path": "./packs/scenes.db",
             "type": "Scene"
         },
         {
             "name": "module-journal-entries",
-            "label": "Module Journal Entries",
+            "label": "Conteúdo de Journal",
             "path": "./packs/journal-entries.db",
             "type": "JournalEntry"
         },
         {
-            "name": "module-macros",
-            "label": "Module Macros",
-            "path": "./packs/macros.db",
-            "type": "Macro"
-        },
-        {
-            "name": "module-roll-tables",
-            "label": "Module Roll Tables",
-            "path": "./packs/roll-tables.db",
-            "type": "RollTable"
-        },
-        {
-            "name": "module-playlists",
-            "label": "Module Playlists",
-            "path": "./packs/playlists.db",
-            "type": "Playlist"
-        },
-        {
             "name": "module-adventures",
-            "label": "Module Adventures",
+            "label": "Aventuras Prontas",
             "path": "./packs/adventures.db",
             "type": "Adventure"
         }
