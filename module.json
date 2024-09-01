@@ -1,0 +1,74 @@
+{
+    "id": "conteudo-extra-para-t20",
+    "name": "conteudo-extra-para-t20e",
+    "title": "Conteudo extra para T20",
+    "description": "Conteudo extra, NÃO OFICIAL, para T20. Feito de fã para fãs.",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Pablo Pochmann",
+            "discord": "PochmannBR#0301",
+            "url": "https://www.mywebsite.com/"
+        }
+    ],
+    "minimumCoreVersion": "12",
+    "compatibleCoreVersion": "12",
+    "compatibility": {
+        "minimum": "12",
+        "verified": "12"
+    },
+    "packs": [
+        {
+            "name": "module-creatures",
+            "label": "Module Creatures",
+            "path": "./packs/creatures.db",
+            "type": "Actor",
+            "system": "tormenta20"
+        },
+        {
+            "name": "module-items",
+            "label": "Module Items",
+            "path": "./packs/items.db",
+            "type": "Item",
+            "system": "tormenta20"
+        },
+        {
+            "name": "module-scenes",
+            "label": "Module Scenes",
+            "path": "./packs/scenes.db",
+            "type": "Scene"
+        },
+        {
+            "name": "module-journal-entries",
+            "label": "Module Journal Entries",
+            "path": "./packs/journal-entries.db",
+            "type": "JournalEntry"
+        },
+        {
+            "name": "module-macros",
+            "label": "Module Macros",
+            "path": "./packs/macros.db",
+            "type": "Macro"
+        },
+        {
+            "name": "module-roll-tables",
+            "label": "Module Roll Tables",
+            "path": "./packs/roll-tables.db",
+            "type": "RollTable"
+        },
+        {
+            "name": "module-playlists",
+            "label": "Module Playlists",
+            "path": "./packs/playlists.db",
+            "type": "Playlist"
+        },
+        {
+            "name": "module-adventures",
+            "label": "Module Adventures",
+            "path": "./packs/adventures.db",
+            "type": "Adventure"
+        }
+    ],
+    "manifest": "https://gitlab.com/pochmann/t20_toolbox/-/blob/38d0133c27bec6bee72bb8e910f254c2ab22c49a/module.json",
+    "download": "https://github.com/PochmannBR/t20_toolbox/blob/d1ffcdd40202ef7428248314310e6d8c6e47438d/conteudo-extra-para-t20.zip"
+  }
