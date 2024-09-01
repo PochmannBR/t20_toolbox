@@ -69,6 +69,6 @@
             "type": "Adventure"
         }
     ],
-    "manifest": "https://gitlab.com/pochmann/t20_toolbox/-/blob/38d0133c27bec6bee72bb8e910f254c2ab22c49a/module.json",
+    "manifest": "https://github.com/PochmannBR/t20_toolbox/blob/649842904335422fff7f830e53489d4658d73735/module.json",
     "download": "https://github.com/PochmannBR/t20_toolbox/blob/d1ffcdd40202ef7428248314310e6d8c6e47438d/conteudo-extra-para-t20.zip"
   }
