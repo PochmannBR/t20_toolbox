@@ -1,7 +1,7 @@
 {
-    "id": "conteudo-extra-para-t20",
-    "name": "conteudo-extra-para-t20e",
-    "title": "Conteudo extra para T20",
+    "id": "pochmanns_toolbox",
+    "name": "pochmanns_toolbox",
+    "title": "Pochmann's Toolbox para T20",
     "description": "Conteudo extra, NÃO OFICIAL, para T20. Feito de fã para fãs.",
     "version": "0.1.0",
     "authors": [
@@ -52,5 +52,5 @@
         }
     ],
     "manifest": "https://raw.githubusercontent.com/PochmannBR/t20_toolbox/main/module.json",
-    "download": "https://raw.githubusercontent.com/PochmannBR/t20_toolbox/main/conteudo-extra-para-t20.zip"
+    "download": "https://raw.githubusercontent.com/PochmannBR/t20_toolbox/main/pochmanns_toolbox.zip"
   }
