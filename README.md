@@ -1,5 +1,8 @@
 # Pochmann's Toolbox Module
 
+v 0.2
+Inseridas as magias do Ameaças de Arton.
+
 v 0.1
 
 Inseridas as armas do Ameaças de Arton e do Guia de NPCs.
