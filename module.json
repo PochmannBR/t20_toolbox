@@ -56,6 +56,6 @@
             "type": "Adventure"
         }
     ],
-    "manifest": "https://raw.githubusercontent.com/PochmannBR/t20_toolbox/main/module.json",
-    "download": "https://raw.githubusercontent.com/PochmannBR/t20_toolbox/main/pochmanns_toolbox.zip"
+    "manifest": "https://raw.githubusercontent.com/PochmannBR/t20_toolbox/Combonautas_toolbox/module.json",
+    "download": "https://raw.githubusercontent.com/PochmannBR/t20_toolbox/Combonautas_toolbox/pochmanns_toolbox.zip"
   }
