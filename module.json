@@ -1,7 +1,7 @@
 {
-    "id": "pochmanns_toolbox",
-    "name": "pochmanns_toolbox",
-    "title": "Pochmann's Toolbox para T20",
+    "id": "combonautas_toolbox",
+    "name": "combonautas_toolbox",
+    "title": "Combonautas' Toolbox para T20",
     "description": "Conteudo extra, NÃO OFICIAL, para T20. Feito de fã para fãs.",
     "version": "0.1.2",
     "authors": [
@@ -10,12 +10,17 @@
             "discord": "PochmannBR#0301",
             "url": "Em desenvolvimento!!!"
         }
+        {
+            "name": "Flávio Notargiacomo Ramos",
+            "discord": "SrGuardiao#2582",
+            "url": "Em desenvolvimento!!!"
+        }
     ],
     "minimumCoreVersion": "12",
-    "compatibleCoreVersion": "12",
+    "compatibleCoreVersion": "13",
     "compatibility": {
         "minimum": "12",
-        "verified": "12"
+        "verified": "13"
     },
     "packs": [
         {
